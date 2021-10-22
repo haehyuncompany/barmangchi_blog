@@ -1,5 +1,5 @@
 ---
-title: "정보란"
+title: "정보"
 permalink: /information/
 layout: category
 author_profile: false
