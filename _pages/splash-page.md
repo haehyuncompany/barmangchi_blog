@@ -1,5 +1,5 @@
 ---
-title: ""
+title: " "
 layout: splash
 permalink: /splash-page/
 date: 2020-04-08
