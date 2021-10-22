@@ -1,6 +1,6 @@
 ---
 title: "정보"
-permalink: /information/
+permalink: /information/information/
 layout: category
 author_profile: false
 toc_sticky: true
