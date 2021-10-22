@@ -1,23 +1,15 @@
 ---
-title: "Jan's blog & knowledge base"
+title: ""
 layout: splash
 permalink: /splash-page/
 date: 2020-04-08
 header:
-  overlay_color: "#000"
-  # overlay_color: "#ca423b"
-  overlay_filter: "0.5"
+  overlay_color: "#FFAB00"
+  #overlay_filter: "0.5"
   # overlay_image: /assets/splash/laptop.jpeg
-  # overlay_image: /assets/splash/red.jpg
-
-  actions:
-    - label: "View tutorials"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
-    - label: "Read blog"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
-excerpt: Hi! I'm Jan Meppe. Welcome to my little corner of the internet! I built this site to write and document everything that I've learned in data science and programming. Enjoy!
+# excerpt: Hi! I'm Jan Meppe. Welcome to my little corner of the internet! I built this site to write and document everything that I've learned in data science and programming. Enjoy!
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: '발망치 홈페이지에 오신 여러분을 환영합니다.'
 feature_row:
   - image_path: /assets/icon.png
     title: "Placeholder 1"
