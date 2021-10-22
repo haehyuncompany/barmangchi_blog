@@ -1,6 +1,6 @@
 ---
 title: "회사소개"
-permalink: /company/
+permalink: /company/company/
 layout: category
 author_profile: false
 toc_sticky: true
