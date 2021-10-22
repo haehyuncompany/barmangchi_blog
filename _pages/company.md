@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "회사소개"
 permalink: /company/
 layout: category
 author_profile: false
