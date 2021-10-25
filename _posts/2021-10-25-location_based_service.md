@@ -2,7 +2,6 @@
 title:  "<위치기반서비스 이용약관>"
 header:
   teaser: "/assets/icon.png"
-
 categories: 
   - policy
 ---
