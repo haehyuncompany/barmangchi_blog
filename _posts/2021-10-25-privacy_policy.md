@@ -2,7 +2,6 @@
 title:  "<개인정보처리방침>"
 header:
   teaser: "/assets/icon.png"
-
 categories: 
   - policy
 ---
